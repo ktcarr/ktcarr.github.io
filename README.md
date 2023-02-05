@@ -1,8 +1,24 @@
-## Welcome
+# Almace Scaffolding
 
-<video src="https://user-images.githubusercontent.com/17211833/209215772-7312ad61-d4ec-4477-9e55-9c1e9883c411.mp4" data-canonical-src="https://user-images.githubusercontent.com/17211833/209215772-7312ad61-d4ec-4477-9e55-9c1e9883c411.mp4" loop="true" autoplay="autoplay" playsinline muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
-</video>
+[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/lab/amsf/)
+[![GitHub Actions](https://github.com/sparanoid/almace-scaffolding/workflows/CI%20Test/badge.svg?branch=master)](https://github.com/sparanoid/almace-scaffolding/actions)
+[![CircleCI](https://circleci.com/gh/sparanoid/almace-scaffolding.svg?style=svg)](https://circleci.com/gh/sparanoid/almace-scaffolding)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/sparanoid/amsf)
 
-<!---[Link](url) and ![Image](src)--->
+Hello from the other side
 
-<!---For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).--->
+-----
+
+
+## Site designer
+
+**Tunghsiao Liu**
+
+- Twitter: @[tunghsiao](https://twitter.com/tunghsiao)
+- GitHub: @[sparanoid](https://github.com/sparanoid)
+
+## Licenses
+
+All files and directories are licensed under the [MIT](https://opensource.org/licenses/mit-license.php) unless explicitly stated.
+
+© Sparanoid, Inc.
