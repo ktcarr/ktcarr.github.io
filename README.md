@@ -1,16 +1,20 @@
-# Almace Scaffolding
+# Academic Pages
 
-[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/lab/amsf/)
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Hello from the other side
+Academic Pages is a Github Pages template for academic websites.
 
------
+# Getting Started
 
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Click the "Use this template" button in the top right.
+1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and add your content.
+1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-## Site designer
+See more info at https://academicpages.github.io/
 
-**Tunghsiao Liu**
-
-- Twitter: @[tunghsiao](https://twitter.com/tunghsiao)
-- GitHub: @[sparanoid](https://github.com/sparanoid)
-
+## Running Locally
+```bundle exec jekyll serve -l -H localhost```
